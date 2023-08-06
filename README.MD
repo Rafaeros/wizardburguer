@@ -1,0 +1,1 @@
+a fast food website, created with figma for a college project, and i'm moving from design to frontend.
